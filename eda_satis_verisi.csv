@@ -1,0 +1,181 @@
+﻿Tarih,Bölge,Kategori,Müşteri_Yaşı,Adet,Satış_Tutarı
+2025-01-02,Akdeniz,Elektronik,56.0,3,12878.29
+2025-01-05,İç Anadolu,Ev Yaşam,18.0,6,10515.19
+2025-01-06,İç Anadolu,Kitap,18.0,5,1404.04
+2025-01-07,Marmara,Ev Yaşam,34.0,5,11722.62
+2025-01-07,Ege,Elektronik,28.0,1,4373.1
+2025-01-08,Marmara,Ev Yaşam,44.0,1,1645.73
+2025-01-11,Marmara,Kitap,23.0,2,916.98
+2025-01-12,İç Anadolu,Giyim,58.0,3,2338.91
+2025-01-13,İç Anadolu,Giyim,23.0,6,5432.92
+2025-01-14,Akdeniz,Elektronik,57.0,5,18565.67
+2025-01-15,Marmara,Kitap,21.0,4,1520.96
+2025-01-16,Ege,Elektronik,35.0,5,23320.33
+2025-01-17,Marmara,Elektronik,18.0,6,31666.93
+2025-01-17,Marmara,Giyim,29.0,2,
+2025-01-17,Akdeniz,Elektronik,26.0,3,11494.0
+2025-01-17,Karadeniz,Kitap,21.0,1,277.47
+2025-01-17,İç Anadolu,Ev Yaşam,49.0,3,5758.42
+2025-01-18,Ege,Ev Yaşam,44.0,1,1834.26
+2025-01-20,Marmara,Kitap,47.0,2,773.58
+2025-01-21,İç Anadolu,Kitap,22.0,4,1138.24
+2025-01-23,İç Anadolu,Elektronik,37.0,1,4520.23
+2025-01-24,Marmara,Giyim,38.0,6,7038.92
+2025-01-24,Marmara,Giyim,51.0,5,5785.87
+2025-01-26,Marmara,Kitap,40.0,1,425.14
+2025-01-26,İç Anadolu,Kitap,39.0,6,1394.52
+2025-01-28,İç Anadolu,Giyim,45.0,3,2541.37
+2025-01-29,Marmara,Giyim,41.0,6,7935.37
+2025-01-30,Marmara,Giyim,47.0,1,1101.9
+2025-01-30,Marmara,Ev Yaşam,25.0,4,10041.74
+2025-01-31,Marmara,Giyim,45.0,3,3465.99
+2025-02-02,Ege,Kitap,37.0,6,2412.67
+2025-02-04,Karadeniz,Kitap,35.0,4,1580.13
+2025-02-05,Marmara,Elektronik,,6,26486.78
+2025-02-05,İç Anadolu,Giyim,31.0,5,4254.64
+2025-02-06,Marmara,Kitap,33.0,4,1591.29
+2025-02-08,Ege,Ev Yaşam,54.0,4,9190.78
+2025-02-10,Akdeniz,Elektronik,42.0,6,30434.48
+2025-02-10,İç Anadolu,Elektronik,48.0,2,8208.56
+2025-02-12,Akdeniz,Ev Yaşam,43.0,6,9682.07
+2025-02-13,Ege,Ev Yaşam,40.0,2,3668.84
+2025-02-14,Marmara,Elektronik,19.0,5,20329.6
+2025-02-19,Akdeniz,Giyim,29.0,3,
+2025-02-19,Karadeniz,Elektronik,35.0,6,25690.83
+2025-02-19,Marmara,Elektronik,37.0,5,25291.34
+2025-02-20,Akdeniz,Elektronik,33.0,5,19613.43
+2025-02-21,İç Anadolu,Giyim,44.0,3,3230.63
+2025-02-22,İç Anadolu,Elektronik,59.0,5,22611.86
+2025-02-24,Karadeniz,Kitap,49.0,1,344.13
+2025-02-26,Karadeniz,Ev Yaşam,31.0,3,5615.8
+2025-02-27,Akdeniz,Elektronik,57.0,6,30775.8
+2025-02-28,İç Anadolu,Ev Yaşam,43.0,3,5744.45
+2025-03-01,Akdeniz,Kitap,22.0,1,361.2
+2025-03-02,Marmara,Ev Yaşam,32.0,2,4799.37
+2025-03-04,İç Anadolu,Elektronik,36.0,5,16313.21
+2025-03-05,Ege,Giyim,38.0,2,2092.48
+2025-03-07,Marmara,Ev Yaşam,54.0,6,13106.74
+2025-03-07,Karadeniz,Elektronik,44.0,5,20589.16
+2025-03-08,Marmara,Elektronik,42.0,3,14133.57
+2025-03-08,İç Anadolu,Ev Yaşam,31.0,5,8000.43
+2025-03-11,Ege,Elektronik,36.0,2,8075.72
+2025-03-14,Akdeniz,Kitap,41.0,2,877.58
+2025-03-15,İç Anadolu,Kitap,34.0,4,1222.9
+2025-03-15,Ege,Ev Yaşam,24.0,6,10583.13
+2025-03-15,Marmara,Kitap,48.0,3,958.82
+2025-03-15,Marmara,Elektronik,58.0,2,6861.39
+2025-03-17,Marmara,Elektronik,50.0,6,35737.26
+2025-03-19,Ege,Ev Yaşam,37.0,2,4024.05
+2025-03-20,Karadeniz,Kitap,32.0,4,1113.43
+2025-03-20,İç Anadolu,Elektronik,48.0,3,13795.69
+2025-03-20,Marmara,Kitap,53.0,3,1146.26
+2025-03-20,Ege,Giyim,56.0,4,3273.88
+2025-03-20,İç Anadolu,Ev Yaşam,21.0,4,7371.74
+2025-03-21,İç Anadolu,Ev Yaşam,42.0,1,1684.8
+2025-03-21,İç Anadolu,Ev Yaşam,20.0,6,12341.09
+2025-03-22,Karadeniz,Giyim,59.0,6,5357.63
+2025-03-23,Karadeniz,Elektronik,45.0,3,12779.86
+2025-03-23,İç Anadolu,Ev Yaşam,41.0,4,6759.57
+2025-03-24,Marmara,Giyim,31.0,5,5368.95
+2025-03-25,Marmara,Ev Yaşam,25.0,1,2052.31
+2025-03-25,Marmara,Kitap,38.0,3,1189.92
+2025-03-26,Marmara,Giyim,49.0,4,4477.5
+2025-03-26,Akdeniz,Ev Yaşam,54.0,5,7930.47
+2025-03-26,Akdeniz,Kitap,19.0,6,2218.2
+2025-03-26,İç Anadolu,Giyim,36.0,5,5441.14
+2025-03-27,Ege,Ev Yaşam,27.0,4,8300.98
+2025-03-31,Ege,Kitap,51.0,4,1328.69
+2025-04-01,Ege,Elektronik,,2,9765.36
+2025-04-01,Marmara,Ev Yaşam,53.0,5,10339.18
+2025-04-01,Ege,Kitap,55.0,3,970.43
+2025-04-02,Marmara,Giyim,40.0,4,3933.93
+2025-04-03,Ege,Elektronik,,6,27320.86
+2025-04-05,Karadeniz,Elektronik,51.0,4,13645.64
+2025-04-09,Ege,Ev Yaşam,35.0,6,8704.35
+2025-04-09,Ege,Kitap,35.0,5,1724.36
+2025-04-10,İç Anadolu,Kitap,25.0,5,1749.33
+2025-04-10,Ege,Giyim,45.0,2,2194.71
+2025-04-11,Karadeniz,Elektronik,31.0,6,19489.45
+2025-04-11,Ege,Kitap,51.0,1,376.29
+2025-04-11,İç Anadolu,Ev Yaşam,28.0,2,3788.01
+2025-04-12,Ege,Giyim,33.0,3,2885.44
+2025-04-12,Ege,Elektronik,38.0,4,18488.27
+2025-04-12,Akdeniz,Giyim,20.0,6,6306.62
+2025-04-13,Marmara,Kitap,54.0,4,1492.97
+2025-04-14,Karadeniz,Giyim,42.0,2,1782.92
+2025-04-19,Marmara,Elektronik,56.0,4,22649.46
+2025-04-24,İç Anadolu,Elektronik,39.0,3,12089.96
+2025-04-24,Marmara,Giyim,43.0,4,4255.44
+2025-04-25,Ege,Giyim,32.0,6,
+2025-04-25,Akdeniz,Elektronik,59.0,2,8759.72
+2025-04-26,Karadeniz,Kitap,58.0,2,733.17
+2025-04-28,Ege,Elektronik,27.0,6,28679.46
+2025-04-28,Marmara,Giyim,55.0,6,7345.32
+2025-04-30,Karadeniz,Ev Yaşam,47.0,5,8484.29
+2025-04-30,Karadeniz,Giyim,39.0,4,3194.88
+2025-04-30,Karadeniz,Kitap,60.0,3,1059.8
+2025-05-01,Karadeniz,Elektronik,42.0,3,11464.0
+2025-05-01,İç Anadolu,Elektronik,21.0,3,13027.27
+2025-05-03,Marmara,Ev Yaşam,33.0,2,3619.13
+2025-05-03,Akdeniz,Elektronik,58.0,4,
+2025-05-03,Marmara,Elektronik,35.0,4,19629.91
+2025-05-04,İç Anadolu,Ev Yaşam,24.0,2,3429.89
+2025-05-06,Marmara,Giyim,25.0,6,5576.88
+2025-05-06,Karadeniz,Elektronik,38.0,4,13606.9
+2025-05-07,Marmara,Giyim,46.0,1,1163.25
+2025-05-07,Ege,Ev Yaşam,40.0,1,1842.22
+2025-05-07,İç Anadolu,Elektronik,57.0,2,6655.48
+2025-05-10,Marmara,Kitap,48.0,2,747.97
+2025-05-10,Akdeniz,Giyim,43.0,2,2342.41
+2025-05-11,Marmara,Elektronik,40.0,5,24959.56
+2025-05-13,Marmara,Elektronik,34.0,6,30598.26
+2025-05-14,Ege,Ev Yaşam,59.0,5,9061.79
+2025-05-15,Karadeniz,Elektronik,35.0,3,9750.84
+2025-05-17,Karadeniz,Giyim,35.0,1,979.33
+2025-05-17,İç Anadolu,Kitap,22.0,3,996.79
+2025-05-18,Karadeniz,Elektronik,60.0,3,11204.8
+2025-05-18,Marmara,Elektronik,30.0,5,26411.73
+2025-05-19,Ege,Ev Yaşam,50.0,1,1980.04
+2025-05-19,Karadeniz,Giyim,28.0,6,3993.39
+2025-05-20,İç Anadolu,Elektronik,19.0,6,27507.09
+2025-05-21,Marmara,Kitap,29.0,4,1616.84
+2025-05-21,İç Anadolu,Kitap,54.0,1,346.94
+2025-05-21,Marmara,Kitap,28.0,2,536.54
+2025-05-21,Karadeniz,Kitap,52.0,2,499.13
+2025-05-22,Marmara,Elektronik,57.0,2,9895.77
+2025-05-22,Akdeniz,Giyim,37.0,1,944.75
+2025-05-22,Ege,Kitap,,1,359.73
+2025-05-24,Marmara,Elektronik,23.0,3,16023.22
+2025-05-24,Marmara,Elektronik,30.0,3,15491.3
+2025-05-24,Marmara,Kitap,20.0,1,275.77
+2025-05-25,Marmara,Giyim,42.0,5,5980.68
+2025-05-25,Karadeniz,Elektronik,41.0,4,11637.28
+2025-05-27,Akdeniz,Elektronik,34.0,6,31949.91
+2025-05-28,Marmara,Elektronik,46.0,1,6174.44
+2025-05-29,Akdeniz,Kitap,30.0,6,1917.96
+2025-05-29,Marmara,Ev Yaşam,24.0,4,10294.62
+2025-05-30,Karadeniz,Ev Yaşam,52.0,4,5932.99
+2025-05-30,Karadeniz,Giyim,45.0,4,3447.14
+2025-05-30,Akdeniz,Giyim,51.0,6,5391.26
+2025-06-01,Marmara,Giyim,28.0,1,1037.64
+2025-06-01,İç Anadolu,Elektronik,26.0,3,11142.98
+2025-06-03,Akdeniz,Elektronik,53.0,4,15270.17
+2025-06-03,Akdeniz,Elektronik,24.0,6,26496.36
+2025-06-04,Akdeniz,Ev Yaşam,39.0,5,10439.99
+2025-06-04,İç Anadolu,Giyim,48.0,6,4992.53
+2025-06-04,Ege,Giyim,24.0,6,6672.51
+2025-06-09,Marmara,Kitap,37.0,2,802.73
+2025-06-10,İç Anadolu,Ev Yaşam,23.0,4,8401.03
+2025-06-11,Akdeniz,Ev Yaşam,40.0,1,1793.16
+2025-06-12,Marmara,Elektronik,35.0,4,21951.23
+2025-06-12,Marmara,Elektronik,43.0,4,20471.93
+2025-06-15,Marmara,Elektronik,39.0,6,32786.98
+2025-06-16,İç Anadolu,Elektronik,24.0,1,3675.54
+2025-06-16,Akdeniz,Ev Yaşam,24.0,6,8768.42
+2025-06-19,Marmara,Ev Yaşam,43.0,4,7785.11
+2025-06-24,Marmara,Elektronik,23.0,6,36329.63
+2025-06-24,İç Anadolu,Kitap,27.0,6,1799.57
+2025-06-25,İç Anadolu,Elektronik,25.0,3,13679.3
+2025-06-26,Marmara,Ev Yaşam,48.0,4,9182.65
+2025-06-28,Karadeniz,Elektronik,48.0,3,10799.6
+2025-06-29,İç Anadolu,Kitap,51.0,4,1006.04
